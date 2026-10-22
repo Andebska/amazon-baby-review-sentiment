@@ -99,7 +99,6 @@ The results demonstrate a trade-off between computational efficiency and classif
 ├── README.md
 ├── requirements.txt
 ├── .gitignore
-├── README.md
 └── amazon-baby-review-sentiment.ipynb
 ```
 
@@ -131,7 +130,7 @@ python -m pip install --upgrade pip
 python -m pip install -r requirements.txt
 ```
 
-4. Place `amazon_baby.csv` in the `data/` directory. The dataset is not distributed with this repository.
+4. Place `amazon_baby.csv` in the same directory as the notebook. The dataset is not distributed with this repository.
 5. Launch the notebook:
 
 ```bash
