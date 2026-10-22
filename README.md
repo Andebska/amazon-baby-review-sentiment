@@ -134,7 +134,7 @@ python -m pip install -r requirements.txt
 5. Launch the notebook:
 
 ```bash
-jupyter notebook notebooks/amazon-baby-review-sentiment.ipynb
+jupyter notebook amazon-baby-review-sentiment.ipynb
 ```
 
 6. Select **Kernel → Restart Kernel and Run All Cells** to reproduce the analysis.
